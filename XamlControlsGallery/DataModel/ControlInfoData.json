@@ -1950,6 +1950,25 @@
               "Uri": "https://docs.microsoft.com/windows/uwp/design/style/spacing"
             }
           ]
+        },
+        {
+          "UniqueId": "CornerRadius",
+          "Title": "CornerRadius",
+          "Subtitle": "Adds round corners to controls and UI Elements",
+          "ImagePath": "ms-appx:///Assets/DefaultIcon.png",
+          "Description": "You may set CornerRadius property starting in WinUI 2.2 (Minimum version Windows 10 1809). It sets round corners for your UI element.",
+          "Content": "You may set CornerRadius property starting in WinUI 2.2 (Minimum version Windows 10 1809). It sets round corners for your UI element.",
+          "IsNew": true,
+          "Docs": [
+            {
+              "Title": "Corner radius",
+              "Uri": "https://docs.microsoft.com/windows/uwp/design/style/rounded-corner"
+            }
+          ],
+          "RelatedControls": [
+            "Button",
+            "TabView"
+          ]
         }
       ]
     },
